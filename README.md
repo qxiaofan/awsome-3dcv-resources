@@ -6,13 +6,36 @@
 >
 > 运营者和嘉宾介绍：运营者来自国内一线大厂的算法工程师，深研3D视觉、深度学习、图像处理、自动驾驶、vSLAM等领域，特邀嘉宾包括国内外知名高校的博士硕士，旷视、商汤、百度、阿里等就职的算法大佬，欢迎一起交流学习
 
-[TOC]
 
-# 硬件
+- [硬件](#硬件)
+
+- [相机标定](#相机标定)
+
+- [3D视觉视觉资源汇总](#3D视觉视觉资源汇总)
+
+- [SLAM](#SLAM)
+
+- [计算机视觉](#计算机视觉)
+
+- [深度学习](#深度学习)
+
+- [3D点云](#3D点云)
+
+- [三维重建](#三维重建)
+
+- [视觉伺服](#视觉伺服)
+
+- [深度图补全](#深度图补全)
+
+- [3D 会议/顶会](#TopSurvey)
+
+<a name="硬件"></a>
+## 硬件
 
 [事件相机知识点汇总](https://github.com/uzh-rpg/event-based_vision_resources)
 
-# 相机标定
+<a name="相机标定"></a>
+## 相机标定
 
 ### 综述
 
@@ -38,6 +61,7 @@
 
 1. [基于张正友标定法的红外靶标系统](http://www.opticsjournal.net/Articles/Abstract?aid=OJ200119000058dKgMjP)
 
+<a name="3D视觉视觉资源汇总"></a>
 # 3D视觉资源汇总
 
 ## 书籍
@@ -52,6 +76,7 @@
 
 https://github.com/sunglok/3dv_tutorial(涉及SLAM、多视图几何代码示例)
 
+<a name="SLAM"></a>
 # SLAM
 
 ## 优秀开源项目汇总
@@ -118,11 +143,10 @@ https://github.com/sunglok/3dv_tutorial(涉及SLAM、多视图几何代码示例
 | [REBVO - Realtime Edge Based Visual Odometry for a Monocular Camera](https://github.com/JuanTarrio/rebvo) | C++      | GNU General Public License |
 | [SVO semi-direct Visual Odometry](https://github.com/uzh-rpg/rpg_svo) | C++/ROS  | GNU General Public License |
 
+<a name="计算机视觉"></a>
 # 计算机视觉
 
 ## 资源汇总
-
-
 
 ## Books
 
@@ -156,6 +180,7 @@ https://github.com/sunglok/3dv_tutorial(涉及SLAM、多视图几何代码示例
 - [Computer Vision 2](http://cvlab-dresden.de/courses/CV2/) Carsten Rother (TU Dresden):
 - [Multiple View Geometry](https://youtu.be/RDkwklFGMfo?list=PLTBdjV_4f-EJn6udZ34tht9EVIW7lbeo4) Daniel Cremers (TU Munich):
 
+<a name="深度学习"></a>
 # 深度学习
 
 ## Github link
@@ -164,7 +189,7 @@ https://github.com/sunglok/3dv_tutorial(涉及SLAM、多视图几何代码示例
 
 2、[https://github.com/endymecy/awesome-deeplearning-resources](https://github.com/endymecy/awesome-deeplearning-resources)
 
-
+<a name="机器学习"></a>
 
 # 机器学习
 
@@ -172,6 +197,7 @@ https://github.com/sunglok/3dv_tutorial(涉及SLAM、多视图几何代码示例
 
 1、[https://github.com/josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning)
 
+<a name="3D点云"></a>
 # 3D点云
 
 ## 点云获取
@@ -474,6 +500,7 @@ https://github.com/sunglok/3dv_tutorial(涉及SLAM、多视图几何代码示例
 37. [[PointDA-10 Dataset](https://github.com/canqin001/PointDAN)] Domain Adaptation for point clouds.
 38. [[Oxford Robotcar](https://robotcar-dataset.robots.ox.ac.uk/)] The dataset captures many different combinations of weather, traffic and pedestrians. 
 
+<a name="三维重建"></a>
 # 三维重建
 
 ## 单目图像
@@ -481,8 +508,6 @@ https://github.com/sunglok/3dv_tutorial(涉及SLAM、多视图几何代码示例
 > 主要分为基于SfM三维重建和基于Deep learning的三维重建方法
 
 ### paper
-
-
 
 ## 结构光
 
@@ -1076,7 +1101,7 @@ https://github.com/sunglok/3dv_tutorial(涉及SLAM、多视图几何代码示例
 # 无序抓取
 
 
-
+<a name="视觉伺服"></a>
 # 视觉伺服
 
 ### 综述
@@ -1099,6 +1124,7 @@ https://github.com/sunglok/3dv_tutorial(涉及SLAM、多视图几何代码示例
 
 1.  [Moment-Based 2.5-D Visual Servoing for Textureless Planar Part Grasping](https://ieeexplore.ieee.org/document/8584462)
 
+<a name="深度图补全"></a>
 # 深度图补全
 
 1、[HMS-Net: Hierarchical Multi-scale Sparsity-invariant Network for Sparse Depth Completion](https://arxiv.org/abs/1808.08685)
@@ -1118,3 +1144,86 @@ https://github.com/sunglok/3dv_tutorial(涉及SLAM、多视图几何代码示例
 8、[PLIN: A Network for Pseudo-LiDAR Point Cloud Interpolation](https://arxiv.org/abs/1909.07137)
 
 9、[Depth Completion from Sparse LiDAR Data with Depth-Normal Constraints](https://arxiv.org/pdf/1910.06727v1.pdf)
+
+<a name="TopSurvey"></a>
+## 3DCVer 会议/顶刊
+
+**SLAM**
+- [ICRA](https://www.ieee-ras.org/conferences-workshops/fully-sponsored/icra)
+- [IROS](https://www.iros2019.org/)
+- [ROBIO](https://www.robio.org/)
+- [ICCV](http://iccv2019.thecvf.com/)
+- [CVPR](http://cvpr2020.thecvf.com/)
+- [RSS](https://roboticsconference.org/)
+- [AIM](http://aim2020.org/)
+- [ICMA](http://2019.ieee-icma.org/)
+
+**点云处理**
+
+- [ICRA](https://www.ieee-ras.org/conferences-workshops/fully-sponsored/icra)
+- [CVPR](http://cvpr2020.thecvf.com/)
+- [ICCV](http://iccv2019.thecvf.com/)
+- [ECCV](https://eccv2020.eu/)
+- [ACCV](http://accv2020.kyoto/)
+- [BMVC](https://bmvc2019.org/)
+- [TPAMI](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34)
+- [TIP](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?)
+
+**3D视觉/机器视觉**
+- [arXiv](https://arxiv.org/)
+- [ROBIO](https://www.robio.org/)
+- [ICRA](https://www.ieee-ras.org/conferences-workshops/fully-sponsored/icra)
+- [BMVC](https://bmvc2019.org)
+- [光学学报](http://www.opticsjournal.net/journals/gxxb.htm?action=index)
+- [中国激光](http://www.opticsjournal.net/Journals/zgjg.htm)
+- [光电子激光](https://wx.zsxq.com/dweb2/index/group)
+- [Optical Engineering](https://wx.zsxq.com/dweb2/index/group)
+- [Measurment](https://www.journals.elsevier.com/measurement)
+- [Pattern Recognition](https://www.journals.elsevier.com/pattern-recognition/)
+
+**计算机视觉**
+- [CVPR](http://cvpr2020.thecvf.com/)
+- [ICCV](http://iccv2019.thecvf.com/)
+- [ECCV](https://eccv2020.eu/)
+- [AAAI](http://www.aaai.org/)
+- [ICCP](http://www.iccp.ro/iccp2019/)
+- [ICPR](https://www.icpr2020.it/)
+- [PR](https://www.journals.elsevier.com/pattern-recognition/)
+- [IJCV](https://www.springer.com/journal/11263/)
+- [CVIU](https://www.journals.elsevier.com/computer-vision-and-image-understanding/)
+
+**图像处理**
+- [ICIP](https://2020.ieeeicip.org/)
+- [TIP](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=83#opennewwindow)
+- [SIPPR](http://www.iwsippr.org/)
+- [ICDIP](http://www.icdip.org/)
+- [ICPR](https://www.icpr2020.it/)
+
+**深度学习**
+- [CVPR](http://cvpr2020.thecvf.com/)
+- [ICCV](http://iccv2019.thecvf.com/)
+- [ECCV](https://eccv2020.eu/)
+- [AAAI](http://www.aaai.org/)
+- [IJCAI](https://www.ijcai.org/)
+
+**机器学习**
+- [NIPS](https://neurips.cc/)
+- [ICML](https://icml.cc/)
+- [ECML](https://ecmlpkdd2020.net/)
+- [ACML](http://www.acml-conf.org/2019/)
+- [ECAI](http://ecai2020.eu/)
+
+**自动驾驶**
+- [IROS](https://www.iros2019.org/)
+- [ICRA](https://www.ieee-ras.org/conferences-workshops/fully-sponsored/icra)
+- [IEEE](IV：https://2020.ieee-iv.org/)
+- [ITSC](https://www.itsc2019.org/)
+- [ICVES](http://www.icves2019.org/)
+- [RSS](https://roboticsconference.org/)
+- [IJRR](http://www.ijrr.org/)
+
+**医疗影像**
+- [MICCAI](http://www.miccai.org/)
+- [ISBI](http://2020.biomedicalimaging.org/)
+- [SPIE](https://spie.org/?SSO=1)
+- [MIDL](https://2020.midl.io/)
