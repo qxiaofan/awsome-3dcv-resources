@@ -641,6 +641,7 @@ https://github.com/sunglok/3dv_tutorial(涉及SLAM、多视图几何代码示例
 22. [A hand-held photometric stereo camera for 3-D modeling  ]()
 23. [High-resolution, real-time 3D absolute coordinate measurement based on a phase-shifting method  ]()
 24. [A fast three-step phase shifting algorithm  ]()
+25. [基于相位测量轮廓术的三维重建系统标定研究](http://www.doc88.com/p-7903826796022.html)
 
 ### Code
 
@@ -648,6 +649,8 @@ https://github.com/sunglok/3dv_tutorial(涉及SLAM、多视图几何代码示例
 2. [https://github.com/phreax/structured_light](https://github.com/phreax/structured_light)
 3. [https://github.com/nikolaseu/neuvision](https://github.com/nikolaseu/neuvision)
 4. [https://github.com/pranavkantgaur/3dscan](https://github.com/pranavkantgaur/3dscan)
+
+
 
 ## 扫描3D成像  
 
