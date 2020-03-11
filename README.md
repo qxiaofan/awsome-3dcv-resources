@@ -650,6 +650,9 @@ https://github.com/sunglok/3dv_tutorial(涉及SLAM、多视图几何代码示例
 3. [https://github.com/nikolaseu/neuvision](https://github.com/nikolaseu/neuvision)
 4. [https://github.com/pranavkantgaur/3dscan](https://github.com/pranavkantgaur/3dscan)
 
+几个不错的开源网站：
+1. [http://mesh.brown.edu/calibration/](http://mesh.brown.edu/calibration/)
+
 
 
 ## 扫描3D成像  
