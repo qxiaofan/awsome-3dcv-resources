@@ -598,7 +598,7 @@ https://github.com/sunglok/3dv_tutorial(涉及SLAM、多视图几何代码示例
 6. Overview of the 3D profilometry of phase shifting fringe projection
 7. Temporal phase unwrapping algorithms for fringe projection profilometry:a comparative review
 8. A multi-frequency  inverse-phase error compensation method for projectornon linear in3D shape measurement
-yong.qi added
+
 9. 双目线激光扫描三维重建技术及其在工业测量中的应用
 10.Simple, Accurate, and Robust Projector-Camera Calibration
 11.High-accuracy, high-speed 3D structured light imaging techniques and potential applications to intelligent robotics
@@ -658,9 +658,8 @@ yong.qi added
 4. [https://github.com/pranavkantgaur/3dscan](https://github.com/pranavkantgaur/3dscan)
 
 几个不错的开源网站：
-1. [Build Your Own 3D Scanner: Optical Triangulation for Beginners](http://mesh.brown.edu/calibration/)
+1. [http://mesh.brown.edu/calibration/](http://mesh.brown.edu/calibration/)
 2. [https://www.3dunderworld.org/about/](https://www.3dunderworld.org/about/)
-
 
 
 ## 扫描3D成像  
