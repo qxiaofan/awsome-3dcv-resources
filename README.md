@@ -579,7 +579,6 @@ https://github.com/sunglok/3dv_tutorial(涉及SLAM、多视图几何代码示例
 
 5. Robust pattern decoding in shape-coded structured light
 
-   
 
 ### 多次投影成像  
 
@@ -598,12 +597,11 @@ https://github.com/sunglok/3dv_tutorial(涉及SLAM、多视图几何代码示例
 6. Overview of the 3D profilometry of phase shifting fringe projection
 7. Temporal phase unwrapping algorithms for fringe projection profilometry:a comparative review
 8. A multi-frequency  inverse-phase error compensation method for projectornon linear in3D shape measurement
-
 9. 双目线激光扫描三维重建技术及其在工业测量中的应用
-10.Simple, Accurate, and Robust Projector-Camera Calibration
-11.High-accuracy, high-speed 3D structured light imaging techniques and potential applications to intelligent robotics
-12.Flexible 3D shape measurement using projector defocusing: extended measurement rang
-13.High-quality 3D shape measurement using saturated fringe patterns
+10. Simple, Accurate, and Robust Projector-Camera Calibration
+11. High-accuracy, high-speed 3D structured light imaging techniques and potential applications to intelligent robotics
+12. Flexible 3D shape measurement using projector defocusing: extended measurement rang
+13. High-quality 3D shape measurement using saturated fringe patterns
 
 
 ### 偏折法成像  
@@ -651,7 +649,6 @@ https://github.com/sunglok/3dv_tutorial(涉及SLAM、多视图几何代码示例
 25. [基于相位测量轮廓术的三维重建系统标定研究](http://www.doc88.com/p-7903826796022.html)
 
 ### Code
-
 1. [https://github.com/jakobwilm/slstudio](https://github.com/jakobwilm/slstudio)
 2. [https://github.com/phreax/structured_light](https://github.com/phreax/structured_light)
 3. [https://github.com/nikolaseu/neuvision](https://github.com/nikolaseu/neuvision)
